@@ -4,7 +4,7 @@
 
 
 ## 项目简介
-受到[Qure](https://github.com/Koolson/Qure "Qure")项目启发，为[QuantumultX](https://github.com/crossutility/Quantumult-X/ "QuantumultX")策略组，搬运来自[微博 @是芝芝味的Daisy鸭](https://weibo.com/u/6540920195 "微博 @是芝芝味的Daisy鸭")手绘情侣头像素材，作者手绘头像源自 2021年7月 河南暴雨自然灾害中，来自国内企业（鸿星尔克、蜜雪冰城、茅台酒业等）捐款为原型，设计的相关情侣头像，本项目作者这边暂且命名成 **国货之光**。**愿晴日朗照，人间皆安！**
+受到[Qure](https://github.com/Koolson/Qure "Qure")项目启发，为[QuantumultX](https://github.com/crossutility/Quantumult-X/ "QuantumultX")策略组，搬运来自[微博 @是芝芝味的Daisy鸭](https://weibo.com/u/6540920195 "微博 @是芝芝味的Daisy鸭")手绘情侣头像素材，作者手绘头像源自 2021年7月 河南暴雨自然灾害中，来自国内企业（鸿星尔克、蜜雪冰城、汇源果汁、茅台酒业等）捐款为原型，设计的相关情侣头像，本项目作者这边暂且命名成 **国货之光**。**愿晴日朗照，人间皆安！**
 
 ## 使用说明
 + 可参考Qure项目进行 远程图标 和 本地图标 使用。
@@ -33,7 +33,7 @@ TestFlight版本 1.0.24 可使用 Icon-Gallery 订阅图标合集
 
 来自[微博 @是芝芝味的Daisy鸭](https://weibo.com/u/6540920195 "微博 @是芝芝味的Daisy鸭") 手绘 情侣头像：6枚
 + 情侣头像分为男孩、女孩
-+ 手绘元素来源 鸿星尔克、蜜雪冰城、茅台酒业
++ 手绘元素来源 鸿星尔克、蜜雪冰城、汇源果汁、茅台酒业
 
 
 ## 预览图效果
