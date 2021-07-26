@@ -37,4 +37,4 @@ TestFlight版本 1.0.24 可使用 Icon-Gallery 订阅图标合集
 
 
 ## 预览图效果
-![markdown](https://github.com/shoujiqiyuan/DaisyforQuanX/blob/master/Preview.jpg "DaisyforQuanX")
+![markdown](https://github.com/shoujiqiyuan/DaisyforQuanX/blob/main/Preview.jpg "DaisyforQuanX")
