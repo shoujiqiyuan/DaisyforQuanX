@@ -13,10 +13,10 @@
     * 图标名称.png
     * 001.png
 
-远程修改地址`img-url=https://raw.githubusercontent.com/shoujiqiyuan/DaisyforQuanX/master/IconSet/图标名称.png`
+远程修改地址`img-url=https://raw.githubusercontent.com/shoujiqiyuan/DaisyforQuanX/main/IconSet/图标名称.png`
 
 TestFlight版本 1.0.24 可使用 Icon-Gallery 订阅图标合集
-远程订阅地址`https://raw.githubusercontent.com/shoujiqiyuan/DaisyforQuanX/master/Daisy.json`
+远程订阅地址`https://raw.githubusercontent.com/shoujiqiyuan/DaisyforQuanX/main/Daisy.json`
 
 ## 免责声明
 + DaisyforQuanX项目内所涉及的相关手绘头像等素材、图标仅作为测试和学习使用；
